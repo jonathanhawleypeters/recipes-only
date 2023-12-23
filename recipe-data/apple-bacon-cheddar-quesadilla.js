@@ -13,7 +13,7 @@ const recipe = {
   },
   instructions: [
     "Heat the fat in a pan over medium low",
-    "When the fat is melted, lay the tortilla flat in the pan and cover evently with cheddar",
+    "When the fat is melted, lay the tortilla flat in the pan and cover evenly with cheddar",
     "When the cheese is melted, lay the bacon and apple slices over one half of the tortilla, fold, and remove.",
   ],
   published: {
