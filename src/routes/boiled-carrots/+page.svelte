@@ -1,0 +1,51 @@
+<svelte:head>
+    <title>Boiled Carrots</title>
+    <meta name="description" content="A fast vegetable side dish" />
+  </svelte:head>
+
+  <div>
+    <h2>Boiled Carrots</h2>
+
+    <img src="/images/boiled-carrots.webp" alt="A large bowl of steaming, just-cooked carrot pieces." width="320px" height="320px" />
+
+    <div>
+      <p>2 servings</p>
+      <h3>Ingredients</h3>
+      <ul><li>2 cups of 3/4 inch chopped carrots</li><li>salt (optional)</li></ul>
+    </div>
+
+    <div>
+      <h3>Instructions</h3>
+
+      <ol><li>Bring two quarts (or litres) of water to a vigorous boil. Salt if desired.</li><li>Boil chopped carrots for two minutes.</li><li>Drain away water through a collander or strainer.</li><li>Allow to cool before serving.</li></ol>
+    </div>
+
+    <h3>Source</h3><p>This is the laziest, fastest way I know to cook carrots satisfactorily</p>
+
+    <p>
+      Published <time datetime="2023-12-29">19 December 2023</time>
+    </p>
+
+  </div>
+
+  <style>
+    ul {
+      padding-left: 20px;
+    }
+    ul li {
+      list-style: none;
+      line-height: 1.2;
+    }
+    ol li {
+      padding-bottom: 8px;
+    }
+    img {
+      float: right;
+    }
+    @media (max-width: 640px) {
+      img {
+        float: none;
+      }
+    }
+  </style>
+  
