@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<a href="apple-bacon-cheddar-quesadilla">Apple, bacon, cheddar quesadilla</a>
+<a href="boiled-broccoli">Boiled Broccoli</a>
+<a href="boiled-carrots">Boiled Carrots</a>
+<a href="chocolate-chip-cookies">Chocolate chip cookies</a>
+<a href="chocolate-peanut-butter-protein-drink">Chocolate, peanut butter protein drink</a>
+<a href="egg-tarts">Egg Tarts</a>
+<a href="green-bean-casserole">Green Bean Casserole</a>
+<a href="chinese-hot-oil-noodles">Chinese hot oil noodles - 油泼面</a>
+<a href="hummus">Hummus</a>
+<a href="middle-eastern-vegetable-salad">Middle eastern vegetable salad</a>
+<a href="oven-baked-asparagus">Oven baked asparagus</a>
+<a href="bacon-cheddar-broccoli-egg-bites">Bacon, cheddar, broccoli egg bites</a>
+<a href="rice-and-beans">Rice and Beans</a>
+<a href="vegetable-gratin">Vegetable Gratin</a>
