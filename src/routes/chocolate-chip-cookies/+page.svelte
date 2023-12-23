@@ -6,7 +6,7 @@
   <div>
     <h2>Chocolate chip cookies</h2>
 
-    <img src="/images/chocolate-chip-cookies.webp" alt="Freshly baked chocolate-chip cookies on a wooden countertop surrounded by choclate chips, chunks and other ingredients." width="320px" height="320px" />
+    <img class="hero-image" src="/images/chocolate-chip-cookies.webp?h=640;320;160&aspect=1:1" alt="Freshly baked chocolate-chip cookies on a wooden countertop surrounded by choclate chips, chunks and other ingredients." />
 
     <div>
       <p>36 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

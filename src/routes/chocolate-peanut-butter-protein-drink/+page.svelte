@@ -6,7 +6,7 @@
   <div>
     <h2>Chocolate, peanut butter protein drink</h2>
 
-    <img src="/images/peanut-butter-chocolate-protein-shake.webp" alt="A peanut butter chocolate protien shake in a shaker bottle surrounded by ingredients like chocolate squares, peanuts and milk." width="320px" height="320px" />
+    <img class="hero-image" src="/images/peanut-butter-chocolate-protein-shake.webp?h=640;320;160&aspect=1:1" alt="A peanut butter chocolate protien shake in a shaker bottle surrounded by ingredients like chocolate squares, peanuts and milk." />
 
     <div>
       <p>1 serving</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

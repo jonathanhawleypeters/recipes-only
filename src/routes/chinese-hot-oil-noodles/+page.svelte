@@ -6,7 +6,7 @@
   <div>
     <h2>Chinese hot oil noodles - 油泼面</h2>
 
-    <img src="/images/yo-po-mian.webp" alt="A hot bowl of noodles and vegetables, surrounded by small dishes of peppercorns and salt." width="320px" height="320px" />
+    <img class="hero-image" src="/images/yo-po-mian.webp?h=640;320;160&aspect=1:1" alt="A hot bowl of noodles and vegetables, surrounded by small dishes of peppercorns and salt." />
 
     <div>
       <p>1 serving</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

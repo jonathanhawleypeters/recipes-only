@@ -6,7 +6,7 @@
   <div>
     <h2>Egg Tarts</h2>
 
-    <img src="/images/egg-tarts.webp" alt="14 golden-brown egg tarts in tins on a baking sheet." width="320px" height="320px" />
+    <img class="hero-image" src="/images/egg-tarts.webp?h=640;320;160&aspect=1:1" alt="14 golden-brown egg tarts in tins on a baking sheet." />
 
     <div>
       <p>12 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

@@ -6,7 +6,7 @@
   <div>
     <h2>Vegetable Gratin</h2>
 
-    <img src="/images/vegetable-gratin.webp" alt="A casserole dish containing vegetable gratin rests on a table surrounded by parmesan cheese, olive oil, zucchini, onion, and a spoonfull of salt" width="320px" height="320px" />
+    <img class="hero-image" src="/images/vegetable-gratin.webp?h=640;320;160&aspect=1:1" alt="A casserole dish containing vegetable gratin rests on a table surrounded by parmesan cheese, olive oil, zucchini, onion, and a spoonfull of salt" />
 
     <div>
       <p>4 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

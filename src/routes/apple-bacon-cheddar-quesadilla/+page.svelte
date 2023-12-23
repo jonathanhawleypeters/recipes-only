@@ -6,7 +6,7 @@
   <div>
     <h2>Apple, bacon, cheddar quesadilla</h2>
 
-    <img src="/images/apple-bacon-cheddar-quesadilla.webp" alt="A cast-iron skillet containing an open-faced quesadilla cooking with bacon and apple slices on top." width="320px" height="320px" />
+    <img class="hero-image" src="/images/apple-bacon-cheddar-quesadilla.webp?h=640;320;160&aspect=1:1" alt="A cast-iron skillet containing an open-faced quesadilla cooking with bacon and apple slices on top." />
 
     <div>
       <p>1 serving</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

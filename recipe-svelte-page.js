@@ -1,3 +1,5 @@
+
+
 const recipeSveltePage = (recipe) => {
   const { title, description, ingredients, instructions, published, source, img } = recipe;
   const { datetime, text } = published;
@@ -12,7 +14,7 @@ const recipeSveltePage = (recipe) => {
     <h2>${title}</h2>
 
     ${img
-      ? `<img src="${img.src}" alt="${img.alt}" width="320px" height="320px" />`
+      ? `<img class="hero-image" src="${img.src + "?h=640;320;160&aspect=1:1"}" alt="${img.alt}" />`
       : ''}
 
     <div>
@@ -56,11 +58,13 @@ const recipeSveltePage = (recipe) => {
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

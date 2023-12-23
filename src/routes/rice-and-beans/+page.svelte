@@ -6,7 +6,7 @@
   <div>
     <h2>Rice and Beans</h2>
 
-    <img src="/images/rice-and-beans.webp" alt="A bowl with rice and beans garnished with cilantro rests on a table" width="320px" height="320px" />
+    <img class="hero-image" src="/images/rice-and-beans.webp?h=640;320;160&aspect=1:1" alt="A bowl with rice and beans garnished with cilantro rests on a table" />
 
     <div>
       <p>2 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

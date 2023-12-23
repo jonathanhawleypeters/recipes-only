@@ -6,7 +6,7 @@
   <div>
     <h2>Oven baked asparagus</h2>
 
-    <img src="/images/oven-baked-asparagus.webp" alt="A tray of uncooked asparagus on an oven rack. An obviously incorrect (machine-generated) temperature display reads 400°F 405°C (should be 205°C)." width="320px" height="320px" />
+    <img class="hero-image" src="/images/oven-baked-asparagus.webp?h=640;320;160&aspect=1:1" alt="A tray of uncooked asparagus on an oven rack. An obviously incorrect (machine-generated) temperature display reads 400°F 405°C (should be 205°C)." />
 
     <div>
       <p>4 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

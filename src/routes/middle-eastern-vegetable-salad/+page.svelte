@@ -6,7 +6,7 @@
   <div>
     <h2>Middle eastern vegetable salad</h2>
 
-    <img src="/images/medeterranian-salad.webp" alt="An over-the-top rendering of a chickpea, tomato, cucumber and feta salad." width="320px" height="320px" />
+    <img class="hero-image" src="/images/medeterranian-salad.webp?h=640;320;160&aspect=1:1" alt="An over-the-top rendering of a chickpea, tomato, cucumber and feta salad." />
 
     <div>
       <p>5 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

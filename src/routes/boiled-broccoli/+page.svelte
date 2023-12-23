@@ -6,7 +6,7 @@
   <div>
     <h2>Boiled Broccoli</h2>
 
-    <img src="/images/boiled-broccoli.webp" alt="A large pot of broccoli steaming and boiling on a stovetop" width="320px" height="320px" />
+    <img class="hero-image" src="/images/boiled-broccoli.webp?h=640;320;160&aspect=1:1" alt="A large pot of broccoli steaming and boiling on a stovetop" />
 
     <div>
       <p>2 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

@@ -6,7 +6,7 @@
   <div>
     <h2>Green Bean Casserole</h2>
 
-    <img src="/images/green-bean-casserole.webp" alt="A casserole dish on a counter containing a green bean, mushroom casserole with fried onions over the top." width="320px" height="320px" />
+    <img class="hero-image" src="/images/green-bean-casserole.webp?h=640;320;160&aspect=1:1" alt="A casserole dish on a counter containing a green bean, mushroom casserole with fried onions over the top." />
 
     <div>
       <p>6 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }

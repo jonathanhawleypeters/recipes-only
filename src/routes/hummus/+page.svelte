@@ -6,7 +6,7 @@
   <div>
     <h2>Hummus</h2>
 
-    <img src="images/hummus.webp" alt="a bowl of creamy, freshly made hummus" width="320px" height="320px" />
+    <img class="hero-image" src="images/hummus.webp?h=640;320;160&aspect=1:1" alt="a bowl of creamy, freshly made hummus" />
 
     <div>
       <p>4 servings</p>
@@ -39,11 +39,13 @@
     ol li {
       padding-bottom: 8px;
     }
-    img {
+    .hero-image {
       float: right;
+      width: 320px;
+      height: 320px;
     }
     @media (max-width: 640px) {
-      img {
+      .hero-image {
         float: none;
       }
     }
