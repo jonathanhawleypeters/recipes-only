@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <div class="header">
   <a href="/">
     <h1>Recipes Only</h1>
