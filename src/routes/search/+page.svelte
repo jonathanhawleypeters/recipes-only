@@ -25,3 +25,13 @@
     {/each}
   </ul>
 </div>
+
+<style>
+	ul {
+		padding-left: 20px;
+	}
+	li {
+		list-style: none;
+		line-height: 1.2;
+	}
+</style>

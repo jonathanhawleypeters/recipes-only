@@ -9,7 +9,7 @@
 </script>
 
 <div class="header">
-  <a href="/">
+  <a id="title" href="/">
     <h1>Recipes Only</h1>
   </a>
   
