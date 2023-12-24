@@ -9,6 +9,11 @@
     .map(result => result.doc);
 </script>
 
+<svelte:head>
+  <title>Recipe Search</title>
+  <meta name="description" content="Search for all kinds of recipes." />
+</svelte:head>
+
 <div class="search-results">
   <h2>{lunrResults.length} search results</h2>
   <ul>

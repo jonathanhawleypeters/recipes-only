@@ -3,6 +3,7 @@
   import { search } from './search/store';
 
   const focus = () => {
+    if (window.location.pathname !== '/search')
     goto('/search', { keepFocus: true })
   };
 </script>

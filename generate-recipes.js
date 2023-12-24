@@ -41,7 +41,12 @@ recipes.map(mod => mod.default)
     fs.writeFileSync(`${recipeDirectory}/+page.svelte`, sveltePage);
   });
 
-// const cards = `<div class="cards">
+// const cards = `<svelte:head>
+//   <title>Recipes Only</title>
+//   <meta name="description" content="A simple recipe website" />
+// </svelte:head>
+
+// <div class="cards">
 // ${recipesByKabobName.map(
 //   ([kabobName, recipe]) =>
 // ` <div class="card">
