@@ -1,14 +1,223 @@
-<a href="apple-bacon-cheddar-quesadilla">Apple, bacon, cheddar quesadilla</a>
-<a href="boiled-broccoli">Boiled Broccoli</a>
-<a href="boiled-carrots">Boiled Carrots</a>
-<a href="chocolate-chip-cookies">Chocolate chip cookies</a>
-<a href="chocolate-peanut-butter-protein-drink">Chocolate, peanut butter protein drink</a>
-<a href="egg-tarts">Egg Tarts</a>
-<a href="green-bean-casserole">Green Bean Casserole</a>
-<a href="chinese-hot-oil-noodles">Chinese hot oil noodles - 油泼面</a>
-<a href="hummus">Hummus</a>
-<a href="middle-eastern-vegetable-salad">Middle eastern vegetable salad</a>
-<a href="oven-baked-asparagus">Oven baked asparagus</a>
-<a href="bacon-cheddar-broccoli-egg-bites">Bacon, cheddar, broccoli egg bites</a>
-<a href="rice-and-beans">Rice and Beans</a>
-<a href="vegetable-gratin">Vegetable Gratin</a>
+<div class="cards">
+ <div class="card">
+    <a href="apple-bacon-cheddar-quesadilla">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/apple-bacon-cheddar-quesadilla.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A cast-iron skillet containing an open-faced quesadilla cooking with bacon and apple slices on top." />
+      </div>
+      <div class="link">
+        Apple, bacon, cheddar quesadilla
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="boiled-broccoli">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/boiled-broccoli.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A large pot of broccoli steaming and boiling on a stovetop" />
+      </div>
+      <div class="link">
+        Boiled Broccoli
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="boiled-carrots">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/boiled-carrots.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A large bowl of steaming, just-cooked carrot pieces." />
+      </div>
+      <div class="link">
+        Boiled Carrots
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="chocolate-chip-cookies">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/chocolate-chip-cookies.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="Freshly baked chocolate-chip cookies on a wooden countertop surrounded by choclate chips, chunks and other ingredients." />
+      </div>
+      <div class="link">
+        Chocolate chip cookies
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="chocolate-peanut-butter-protein-drink">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/peanut-butter-chocolate-protein-shake.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A peanut butter chocolate protien shake in a shaker bottle surrounded by ingredients like chocolate squares, peanuts and milk." />
+      </div>
+      <div class="link">
+        Chocolate, peanut butter protein drink
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="egg-tarts">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/egg-tarts.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="14 golden-brown egg tarts in tins on a baking sheet." />
+      </div>
+      <div class="link">
+        Egg Tarts
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="green-bean-casserole">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/green-bean-casserole.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A casserole dish on a counter containing a green bean, mushroom casserole with fried onions over the top." />
+      </div>
+      <div class="link">
+        Green Bean Casserole
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="chinese-hot-oil-noodles">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/yo-po-mian.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A hot bowl of noodles and vegetables, surrounded by small dishes of peppercorns and salt." />
+      </div>
+      <div class="link">
+        Chinese hot oil noodles - 油泼面
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="hummus">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/hummus.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="a bowl of creamy, freshly made hummus" />
+      </div>
+      <div class="link">
+        Hummus
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="middle-eastern-vegetable-salad">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/medeterranian-salad.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="An over-the-top rendering of a chickpea, tomato, cucumber and feta salad." />
+      </div>
+      <div class="link">
+        Middle eastern vegetable salad
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="oven-baked-asparagus">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/oven-baked-asparagus.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A tray of uncooked asparagus on an oven rack. An obviously incorrect (machine-generated) temperature display reads 400°F 405°C (should be 205°C)." />
+      </div>
+      <div class="link">
+        Oven baked asparagus
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="bacon-cheddar-broccoli-egg-bites">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/bacon-cheddar-broccoli-egg-bites.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="Bacon, cheddar, broccoli, salt and various kitchen implements displayed in an artistic manner." />
+      </div>
+      <div class="link">
+        Bacon, cheddar, broccoli egg bites
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="rice-and-beans">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/rice-and-beans.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A bowl with rice and beans garnished with cilantro rests on a table" />
+      </div>
+      <div class="link">
+        Rice and Beans
+      </div>
+    </a>
+  </div>
+ <div class="card">
+    <a href="vegetable-gratin">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/vegetable-gratin.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A casserole dish containing vegetable gratin rests on a table surrounded by parmesan cheese, olive oil, zucchini, onion, and a spoonfull of salt" />
+      </div>
+      <div class="link">
+        Vegetable Gratin
+      </div>
+    </a>
+  </div>
+</div>
+
+<style>
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  .link {
+    margin: 0 auto;
+    width: 160px;
+    white-space: pre-wrap;
+  }
+  .image-container {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+  }
+  .card-image {
+    width: 160px;
+    height: 160px;
+  }
+</style>

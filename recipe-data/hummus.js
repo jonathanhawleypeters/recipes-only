@@ -73,7 +73,7 @@ const recipe = {
     url: "https://x.com/nntaleb/status/1718858461872562592?s=20",
   },
   img: {
-    src: "images/hummus.webp",
+    src: "/images/hummus.webp",
     alt: "a bowl of creamy, freshly made hummus",
   }
 };

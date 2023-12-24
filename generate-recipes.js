@@ -22,7 +22,7 @@ const recipes = await Promise.all(recipeFiles
     return import(`./${filePath}`);
   }));
 
-const recipeKabobNames = [];
+const recipesByKabobName = [];
 
 recipes.map(mod => mod.default)
   .forEach(recipe => {
@@ -30,7 +30,7 @@ recipes.map(mod => mod.default)
     
     const recipeKabobName = toKabobCase(recipe.title);
 
-    recipeKabobNames.push([recipe.title, recipeKabobName]);
+    recipesByKabobName.push([recipeKabobName, recipe]);
     
     const recipeDirectory = path.join(routesDir, recipeKabobName);
     
@@ -41,7 +41,50 @@ recipes.map(mod => mod.default)
     fs.writeFileSync(`${recipeDirectory}/+page.svelte`, sveltePage);
   });
 
-// const links = recipeKabobNames.map(([title, name]) => `<a href="${name}">${title}</a>`).join('\n');
+// const cards = `<div class="cards">
+// ${recipesByKabobName.map(
+//   ([kabobName, recipe]) =>
+// ` <div class="card">
+//     <a href="${kabobName}">
+//       <div class="image-container">
+//         <enhanced:img
+//           class="card-image"
+//           src="/static${recipe.img.src + "?h=320;160&w=320;160&aspect=1:1"}"
+//           sizes="(min-resolution: 2dppx) 320px, 160px"
+//           alt="${recipe.img.alt}" />
+//       </div>
+//       <div class="link">
+//         ${recipe.title}
+//       </div>
+//     </a>
+//   </div>`)
+//   .join('\n')}
+// </div>
 
-// fs.writeFileSync(`${routesDir}/+page.svelte`, links);
+// <style>
+//   .cards {
+//     display: flex;
+//     flex-wrap: wrap;
+//   }
+//   .card {
+//     width: 200px;
+//     margin-bottom: 20px;
+//   }
+//   .link {
+//     margin: 0 auto;
+//     width: 160px;
+//     white-space: pre-wrap;
+//   }
+//   .image-container {
+//     width: 160px;
+//     height: 160px;
+//     margin: 0 auto;
+//   }
+//   .card-image {
+//     width: 160px;
+//     height: 160px;
+//   }
+// </style>`;
+
+// fs.writeFileSync(`${routesDir}/+page.svelte`, cards);
 
