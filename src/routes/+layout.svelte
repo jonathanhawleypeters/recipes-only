@@ -1,17 +1,19 @@
+<script>
+  import { goto } from '$app/navigation';
+  import { search } from './search/store';
+
+  const focus = () => {
+    goto('/search', { keepFocus: true })
+  };
+</script>
+
 <div class="header">
   <a href="/">
     <h1>Recipes Only</h1>
   </a>
   
   <div>
-    <style>
-      input {
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
-      }
-    </style>
-    <input type="text" placeholder="search" />
+    <input on:focus={focus} id="search" placeholder="search" type="text" bind:value={$search} />
   </div>
 </div>
 
@@ -21,5 +23,10 @@
   .header {
     display: flex;
     justify-content: space-between;
+  }
+  input {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
   }
 </style>
