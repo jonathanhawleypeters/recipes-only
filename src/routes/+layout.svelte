@@ -6,6 +6,8 @@
     if (window.location.pathname !== '/search')
     goto('/search', { keepFocus: true })
   };
+
+  // TODO store and re-hydrate the search term in a query parameter
 </script>
 
 <div class="header">
