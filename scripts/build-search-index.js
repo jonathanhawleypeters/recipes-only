@@ -1,28 +1,11 @@
 import fs from 'fs';
-import path from 'path';
 import elasticlunr from '../src/lib/elasticlunr.js';
 import { toKabobCase } from './lib/util.js';
+import { recipes as getRecipes } from './lib/recipes.js';
 
-const recipeDataDir = '../recipe-data';
 const sourceDir = '../src';
 
-let recipeFiles;
-try {
-  recipeFiles = fs.readdirSync(recipeDataDir);
-} catch (error) {
-  console.warn('try running this from its own directory');
-  console.error(error);
-  process.exit();
-}
-
-const recipeModules = await Promise.all(recipeFiles
-  .filter(file => path.extname(file) === '.js')
-  .map(file => {
-    const filePath = path.join(recipeDataDir, file);
-    return import(`./${filePath}`);
-  }));
-
-const recipes = recipeModules.map(mod => mod.default);
+const recipes = await getRecipes();
 
 const idx = elasticlunr(function () {
   this.setRef('slug');

@@ -2,23 +2,15 @@ import fs from 'fs';
 import path from 'path';
 import recipeSveltePage from './recipe-svelte-page.js';
 import { toKabobCase } from './lib/util.js';
+import { recipes as getRecipes } from './lib/recipes.js';
 
-const recipeDataDir = '../recipe-data';
 const routesDir = '../src/routes';
 
-const recipeFiles = fs.readdirSync(recipeDataDir);
-
-const recipes = await Promise.all(recipeFiles
-  .filter(file => path.extname(file) === '.js')
-  .map(file => {
-    const filePath = path.join(recipeDataDir, file);
-    return import(filePath);
-  }));
+const recipes = await getRecipes();
 
 const recipesByKabobName = [];
 
-recipes.map(mod => mod.default)
-  .forEach(recipe => {
+recipes.forEach(recipe => {
     const sveltePage = recipeSveltePage(recipe);
     
     const recipeKabobName = toKabobCase(recipe.title);
