@@ -191,7 +191,7 @@
       <div class="image-container">
         <enhanced:img
           class="card-image"
-          src="/static/images/oven-roasted-sweet-potatoes.webp?h=320;160&w=320;160&aspect=1:1"
+          src="/static/images/slow-roasted-sweet-potatoes.webp?h=320;160&w=320;160&aspect=1:1"
           sizes="(min-resolution: 2dppx) 320px, 160px"
           alt="A baking sheet filled with golden brown oven roasted sweet potato cubes." />
       </div>

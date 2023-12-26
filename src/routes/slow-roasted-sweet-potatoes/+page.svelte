@@ -8,7 +8,7 @@
 
   <enhanced:img
   class="hero-image"
-  src="/static/images/oven-roasted-sweet-potatoes.webp?h=640;320;160&w=640;320;160&aspect=1:1"
+  src="/static/images/slow-roasted-sweet-potatoes.webp?h=640;320;160&w=640;320;160&aspect=1:1"
   sizes="(min-resolution: 2dppx) 640px, 320px"
   alt="A baking sheet filled with golden brown oven roasted sweet potato cubes." />
 

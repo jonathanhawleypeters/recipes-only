@@ -27,7 +27,7 @@ const recipe = {
     text: "A simple and healthy recipe for oven roasted sweet potatoes."
   },
   img: {
-    "src": "/images/oven-roasted-sweet-potatoes.webp",
+    "src": "/images/slow-roasted-sweet-potatoes.webp",
     "alt": "A baking sheet filled with golden brown oven roasted sweet potato cubes."
   }
 };
