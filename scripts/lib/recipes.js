@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { toKabobCase } from './util.js';
 
 export async function recipes() {
   let recipeFiles;
@@ -22,4 +23,12 @@ export async function recipes() {
   const recipes = recipeModules.map(mod => mod.default);
   
   return recipes;
+}
+
+export async function recipesByKabobName() {
+  const data = await recipes();
+
+  const byKabobName = data.map(recipe => [toKabobCase(recipe.title), recipe]);
+
+  return byKabobName;
 }

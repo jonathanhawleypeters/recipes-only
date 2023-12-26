@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Recipes Only</title>
+  <meta name="description" content="A simple recipe website" />
+</svelte:head>
+
 <div class="cards">
  <div class="card">
     <a href="apple-bacon-cheddar-quesadilla">
