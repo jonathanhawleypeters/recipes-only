@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import recipeSveltePage from './recipe-svelte-page.js';
+import recipeSveltePage from './lib/recipe-svelte-page.js';
 import { toKabobCase } from './lib/util.js';
 import { recipes as getRecipes } from './lib/recipes.js';
 
