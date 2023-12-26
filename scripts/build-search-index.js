@@ -1,14 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import elasticlunr from '../src/lib/elasticlunr.js';
-
-function toKabobCase(str) {
-  return str
-    .replace(/[^a-zA-Z ]/g, '')
-    .toLowerCase()
-    .split(' ').join('-')
-    .replace(/^-+|-+$/g, '');
-}
+import { toKabobCase } from './lib/util.js';
 
 const recipeDataDir = '../recipe-data';
 const sourceDir = '../src';

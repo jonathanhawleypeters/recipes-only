@@ -1,17 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import recipeSveltePage from './recipe-svelte-page.js';
+import { toKabobCase } from './lib/util.js';
 
-const recipeDataDir = './recipe-data';
-const routesDir = './src/routes';
-
-function toKabobCase(str) {
-  return str
-    .replace(/[^a-zA-Z ]/g, '')
-    .toLowerCase()
-    .split(' ').join('-')
-    .replace(/^-+|-+$/g, '');
-}
+const recipeDataDir = '../recipe-data';
+const routesDir = '../src/routes';
 
 const recipeFiles = fs.readdirSync(recipeDataDir);
 
@@ -19,7 +12,7 @@ const recipes = await Promise.all(recipeFiles
   .filter(file => path.extname(file) === '.js')
   .map(file => {
     const filePath = path.join(recipeDataDir, file);
-    return import(`./${filePath}`);
+    return import(filePath);
   }));
 
 const recipesByKabobName = [];
