@@ -56,3 +56,5 @@ ${byKabobName.map(
 </style>`;
 
 fs.writeFileSync(`${routesDir}/+page.svelte`, cards);
+
+console.log(`success. wrote ${byKabobName.length} cards to the homepage.`)

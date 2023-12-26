@@ -21,3 +21,5 @@ recipes.forEach(recipe => {
     
     fs.writeFileSync(`${recipeDirectory}/+page.svelte`, sveltePage);
   });
+
+console.log(`success. wrote ${recipes.length} recipe pages.`)
