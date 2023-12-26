@@ -187,6 +187,20 @@
     </a>
   </div>
  <div class="card">
+    <a href="slow-roasted-sweet-potatoes">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/oven-roasted-sweet-potatoes.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A baking sheet filled with golden brown oven roasted sweet potato cubes." />
+      </div>
+      <div class="link">
+        Slow Roasted Sweet Potatoes
+      </div>
+    </a>
+  </div>
+ <div class="card">
     <a href="vegetable-gratin">
       <div class="image-container">
         <enhanced:img
