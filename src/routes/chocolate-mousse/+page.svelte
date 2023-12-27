@@ -15,7 +15,7 @@
   <div>
     <p>8 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>1½ cups chocolate chips</li><li>½ cup prepared espresso coffee</li><li>½ cup Grand Marnier</li><li>4 egg yolks</li><li>2 cups heavy cream</li><li>1/4 cup sugar</li><li>8 egg whites</li><li>Pinch of salt</li><li>½ teaspoon vanilla</li></ul>
+    <ul><li>1½ cups chocolate chips</li><li>½ cup prepared espresso coffee</li><li>½ cup Grand Marnier</li><li>4 egg yolks</li><li>2 cups heavy cream</li><li>¼ cup sugar</li><li>8 egg whites</li><li>Pinch of salt</li><li>½ teaspoon vanilla</li></ul>
   </div>
 
   <div>

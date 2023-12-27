@@ -15,7 +15,7 @@
   <div>
     <p>36 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>1 cup salted butter, softened</li><li>1 cup white (granulated) sugar</li><li>1 cup light brown sugar, packed</li><li>1 teaspoon pure vanilla extract</li><li>2 large eggs</li><li>3 cups all-purpose flour</li><li>1 teaspoon baking soda</li><li>1/2 teaspoon baking powder</li><li>1 teaspoon sea salt</li><li>12 ounces chocolate chips</li></ul>
+    <ul><li>1 cup salted butter, softened</li><li>1 cup white (granulated) sugar</li><li>1 cup light brown sugar, packed</li><li>1 teaspoon pure vanilla extract</li><li>2 large eggs</li><li>3 cups all-purpose flour</li><li>1 teaspoon baking soda</li><li>½ teaspoon baking powder</li><li>1 teaspoon sea salt</li><li>12 ounces chocolate chips</li></ul>
   </div>
 
   <div>

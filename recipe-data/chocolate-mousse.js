@@ -9,7 +9,7 @@ const recipe = {
       "½ cup Grand Marnier",
       "4 egg yolks",
       "2 cups heavy cream",
-      "1/4 cup sugar",
+      "¼ cup sugar",
       "8 egg whites",
       "Pinch of salt",
       "½ teaspoon vanilla",

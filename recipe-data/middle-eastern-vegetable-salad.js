@@ -11,10 +11,10 @@ const recipe = {
       "1/3 cup chopped fresh parsley",
       "1/3 cup chopped fresh mint leaves",
       "1/3 cup julienned fresh basil leaves",
-      "1/2 cup freshly squeezed lemon juice",
+      "½ cup freshly squeezed lemon juice",
       "1 tablespoon minced garlic",
       "Kosher salt and freshly ground black pepper",
-      "1/2 cup good olive oil",
+      "½ cup good olive oil",
       "8 ounces good feta cheese, ½-inch-diced",
       "Toasted pita bread, for serving",
     ]

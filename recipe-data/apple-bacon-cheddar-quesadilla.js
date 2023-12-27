@@ -6,7 +6,7 @@ const recipe = {
     items: [
       "1 tortilla",
       "2 strips bacon, cooked",
-      "1/4 apple, thin sliced",
+      "¼ apple, thin sliced",
       "2 ounces grated cheddar cheese",
       "1 tablespoon butter or lard",
     ]

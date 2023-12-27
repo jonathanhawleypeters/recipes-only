@@ -15,7 +15,7 @@
   <div>
     <p>6 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>2 tablespoons olive oil</li><li>1 medium onion, thinly sliced</li><li>Kosher salt, freshly ground black pepper</li><li>1 pound mushrooms, such as cremini, button, oyster or maitake, quartered</li><li>1 pound green beans, stems trimmed, cut in half or coarsely chopped, if you like</li><li>2 tablespoons unsalted butter</li><li>2 tablespoons flour</li><li>1 3/4 cups whole milk</li><li>2 tablespoons soy sauce or tamari</li><li>1 clove garlic, finely grated or chopped</li><li>An undetermined amount of French’s Onions, from the container</li></ul>
+    <ul><li>2 tablespoons olive oil</li><li>1 medium onion, thinly sliced</li><li>Kosher salt, freshly ground black pepper</li><li>1 pound mushrooms, such as cremini, button, oyster or maitake, quartered</li><li>1 pound green beans, stems trimmed, cut in half or coarsely chopped, if you like</li><li>2 tablespoons unsalted butter</li><li>2 tablespoons flour</li><li>1 ¾ cups whole milk</li><li>2 tablespoons soy sauce or tamari</li><li>1 clove garlic, finely grated or chopped</li><li>An undetermined amount of French’s Onions, from the container</li></ul>
   </div>
 
   <div>

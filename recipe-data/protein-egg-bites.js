@@ -9,7 +9,7 @@ const recipe = {
       "1 cup broccoli florets chopped",
       "2 strips cooked bacon chopped",
       "4 ounces grated fat free cheddar",
-      "1/4 teaspoon black pepper",
+      "¼ teaspoon black pepper",
     ]
   },
   instructions: [

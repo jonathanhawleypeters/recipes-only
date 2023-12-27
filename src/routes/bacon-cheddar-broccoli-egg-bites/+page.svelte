@@ -15,7 +15,7 @@
   <div>
     <p>2 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>1 cup egg whites</li><li>1 tablespoon corn starch</li><li>1 cup broccoli florets chopped</li><li>2 strips cooked bacon chopped</li><li>4 ounces grated fat free cheddar</li><li>1/4 teaspoon black pepper</li></ul>
+    <ul><li>1 cup egg whites</li><li>1 tablespoon corn starch</li><li>1 cup broccoli florets chopped</li><li>2 strips cooked bacon chopped</li><li>4 ounces grated fat free cheddar</li><li>¼ teaspoon black pepper</li></ul>
   </div>
 
   <div>

@@ -15,7 +15,7 @@
   <div>
     <p>4 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>1 pound asparagus, woody ends removed</li><li>1 clove garlic, minced</li><li>1/2 lemon, juiced</li><li>salt</li><li>pepper</li><li>olive oil</li><li>parmesan cheese</li></ul>
+    <ul><li>1 pound asparagus, woody ends removed</li><li>1 clove garlic, minced</li><li>½ lemon, juiced</li><li>salt</li><li>pepper</li><li>olive oil</li><li>parmesan cheese</li></ul>
   </div>
 
   <div>

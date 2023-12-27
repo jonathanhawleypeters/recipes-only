@@ -8,13 +8,13 @@ const recipe = {
       "1 handful of leafy greens (choy sum, spinach, or baby bok choy)",
       "1 teaspoon light soy sauce",
       "1 teaspoon dark soy sauce",
-      "1/2 teaspoon Chinese black vinegar",
+      "½ teaspoon Chinese black vinegar",
       "red pepper flakes",
       "salt",
       "chopped scallion",
       "chopped cilantro",
       "2 cloves garlic",
-      "2 1/2 tablespoons oil"
+      "2 ½ tablespoons oil"
     ]
   },
   "instructions": [

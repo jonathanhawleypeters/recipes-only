@@ -4,7 +4,7 @@ const recipe = {
   ingredients: {
     serves: 2,
     items: [
-      "2 cups of 3/4 inch chopped carrots",
+      "2 cups of ¾ inch chopped carrots",
       "salt (optional)",
     ]
   },

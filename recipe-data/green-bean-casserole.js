@@ -11,7 +11,7 @@ const recipe = {
       "1 pound green beans, stems trimmed, cut in half or coarsely chopped, if you like",
       "2 tablespoons unsalted butter",
       "2 tablespoons flour",
-      "1 3/4 cups whole milk",
+      "1 ¾ cups whole milk",
       "2 tablespoons soy sauce or tamari",
       "1 clove garlic, finely grated or chopped",
       "An undetermined amount of French’s Onions, from the container"

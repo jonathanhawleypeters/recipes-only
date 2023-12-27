@@ -15,7 +15,7 @@
   <div>
     <p>5 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>10 scallions, white and green parts, thinly sliced</li><li>1 pound ripe tomatoes, seeded, cored, and ½-inch-diced</li><li>1 hothouse cucumber, halved lengthwise, seeded, and ½-inch-diced</li><li>1 can or jar (12 to 16 ounces) chickpeas, rinsed and drained</li><li>1/3 cup chopped fresh parsley</li><li>1/3 cup chopped fresh mint leaves</li><li>1/3 cup julienned fresh basil leaves</li><li>1/2 cup freshly squeezed lemon juice</li><li>1 tablespoon minced garlic</li><li>Kosher salt and freshly ground black pepper</li><li>1/2 cup good olive oil</li><li>8 ounces good feta cheese, ½-inch-diced</li><li>Toasted pita bread, for serving</li></ul>
+    <ul><li>10 scallions, white and green parts, thinly sliced</li><li>1 pound ripe tomatoes, seeded, cored, and ½-inch-diced</li><li>1 hothouse cucumber, halved lengthwise, seeded, and ½-inch-diced</li><li>1 can or jar (12 to 16 ounces) chickpeas, rinsed and drained</li><li>1/3 cup chopped fresh parsley</li><li>1/3 cup chopped fresh mint leaves</li><li>1/3 cup julienned fresh basil leaves</li><li>½ cup freshly squeezed lemon juice</li><li>1 tablespoon minced garlic</li><li>Kosher salt and freshly ground black pepper</li><li>½ cup good olive oil</li><li>8 ounces good feta cheese, ½-inch-diced</li><li>Toasted pita bread, for serving</li></ul>
   </div>
 
   <div>

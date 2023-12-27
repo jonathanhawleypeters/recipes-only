@@ -15,7 +15,7 @@
   <div>
     <p>2 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>2 cups of 3/4 inch chopped carrots</li><li>salt (optional)</li></ul>
+    <ul><li>2 cups of ¾ inch chopped carrots</li><li>salt (optional)</li></ul>
   </div>
 
   <div>

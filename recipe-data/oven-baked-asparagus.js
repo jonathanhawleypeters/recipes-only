@@ -6,7 +6,7 @@ const recipe = {
     "items": [
       "1 pound asparagus, woody ends removed",
       "1 clove garlic, minced",
-      "1/2 lemon, juiced",
+      "½ lemon, juiced",
       "salt",
       "pepper",
       "olive oil",

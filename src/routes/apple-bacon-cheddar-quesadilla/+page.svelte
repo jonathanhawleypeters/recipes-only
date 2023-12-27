@@ -15,7 +15,7 @@
   <div>
     <p>1 serving</p>
     <h3>Ingredients</h3>
-    <ul><li>1 tortilla</li><li>2 strips bacon, cooked</li><li>1/4 apple, thin sliced</li><li>2 ounces grated cheddar cheese</li><li>1 tablespoon butter or lard</li></ul>
+    <ul><li>1 tortilla</li><li>2 strips bacon, cooked</li><li>¼ apple, thin sliced</li><li>2 ounces grated cheddar cheese</li><li>1 tablespoon butter or lard</li></ul>
   </div>
 
   <div>

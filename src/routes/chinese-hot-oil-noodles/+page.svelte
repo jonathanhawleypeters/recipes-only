@@ -15,7 +15,7 @@
   <div>
     <p>1 serving</p>
     <h3>Ingredients</h3>
-    <ul><li>4 ounces dried wheat noodles</li><li>1 handful of leafy greens (choy sum, spinach, or baby bok choy)</li><li>1 teaspoon light soy sauce</li><li>1 teaspoon dark soy sauce</li><li>1/2 teaspoon Chinese black vinegar</li><li>red pepper flakes</li><li>salt</li><li>chopped scallion</li><li>chopped cilantro</li><li>2 cloves garlic</li><li>2 1/2 tablespoons oil</li></ul>
+    <ul><li>4 ounces dried wheat noodles</li><li>1 handful of leafy greens (choy sum, spinach, or baby bok choy)</li><li>1 teaspoon light soy sauce</li><li>1 teaspoon dark soy sauce</li><li>½ teaspoon Chinese black vinegar</li><li>red pepper flakes</li><li>salt</li><li>chopped scallion</li><li>chopped cilantro</li><li>2 cloves garlic</li><li>2 ½ tablespoons oil</li></ul>
   </div>
 
   <div>

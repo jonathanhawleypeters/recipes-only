@@ -11,7 +11,7 @@ const recipe = {
       "2 large eggs",
       "3 cups all-purpose flour",
       "1 teaspoon baking soda",
-      "1/2 teaspoon baking powder",
+      "½ teaspoon baking powder",
       "1 teaspoon sea salt",
       "12 ounces chocolate chips",
     ]
