@@ -24,7 +24,7 @@
     <ol><li>Melt chocolate chips in a heavy saucepan over very low heat, stirring.</li><li>Add espresso coffee. Stir in liqueur. Cool to room temperature.</li><li>Add egg yolks one at a time, beating thoroughly after each addition until thickened.</li><li>Whip 1 cup of cream until stiff. Gradually beat in sugar, beating until stiff. Beat egg yolks with salt until stiff. Gently beat egg whites into cream.</li><li>Fold egg whites into cream.</li><li>Stir about 1/3 of cream and egg mixture thoroughly into chocolate mixture. Then scrape remaining cream and egg mixture over lightened chocolate base and fold together gently.</li><li>Pour into individual dessert cups or serving bowl. Chill in refrigerator for 2 hours.</li><li>Serve with other cup of whipped cream, whipped.</li></ol>
   </div>
 
-  <h3>Source</h3><p>This recipe is from the kitchen of Pat Stansell and serves 8 or more. The quote by Alexander Pope at the end reads, ""</p>
+  <h3>Source</h3><p>This recipe is from the kitchen of Pat Stansell and serves 8 or more.</p>
 
   <p>
     Published <time datetime="2023-12-26">26 December 2023</time>

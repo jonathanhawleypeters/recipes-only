@@ -31,7 +31,7 @@ const recipe = {
   },
   source: {
     type: "document",
-    text: "This recipe is from the kitchen of Pat Stansell and serves 8 or more. The quote by Alexander Pope at the end reads, \"\"",
+    text: "This recipe is from the kitchen of Pat Stansell and serves 8 or more.",
   },
   "img": {
     "src": "/images/chocolate-mousse.webp",
