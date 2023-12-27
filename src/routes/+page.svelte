@@ -61,6 +61,20 @@
     </a>
   </div>
  <div class="card">
+    <a href="chocolate-mousse">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/chocolate-mousse.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="An image of a dessert setting featuring individual glass cups of chocolate mousse with whipped cream on top, each garnished with a mint leaf and espresso beans. A silver espresso maker, a white teapot, and a bottle of Grand Marnier are in the background, on a table with a white floral-patterned tablecloth. Each cup is on a small plate with a spoon beside it, under soft, warm lighting." />
+      </div>
+      <div class="link">
+        Chocolate Mousse
+      </div>
+    </a>
+  </div>
+ <div class="card">
     <a href="chocolate-peanut-butter-protein-drink">
       <div class="image-container">
         <enhanced:img
@@ -193,7 +207,7 @@
           class="card-image"
           src="/static/images/slow-roasted-sweet-potatoes.webp?h=320;160&w=320;160&aspect=1:1"
           sizes="(min-resolution: 2dppx) 320px, 160px"
-          alt="A baking sheet filled with golden brown oven roasted sweet potato cubes." />
+          alt="A baking sheet filled with golden brown oven roasted sweet potatoes." />
       </div>
       <div class="link">
         Slow Roasted Sweet Potatoes

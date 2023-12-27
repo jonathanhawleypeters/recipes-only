@@ -28,7 +28,7 @@ const recipe = {
   },
   img: {
     "src": "/images/slow-roasted-sweet-potatoes.webp",
-    "alt": "A baking sheet filled with golden brown oven roasted sweet potato cubes."
+    "alt": "A baking sheet filled with golden brown oven roasted sweet potatoes."
   }
 };
 
