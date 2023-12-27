@@ -21,7 +21,7 @@ const recipe = {
     "Add egg yolks one at a time, beating thoroughly after each addition until thickened.",
     "Whip 1 cup of cream until stiff. Gradually beat in sugar, beating until stiff. Beat egg yolks with salt until stiff. Gently beat egg whites into cream.",
     "Fold egg whites into cream.",
-    "Stir about 1/3 of cream and egg mixture thoroughly into chocolate mixture. Then scrape remaining cream and egg mixture over lightened chocolate base and fold together gently.",
+    "Stir about ⅓ of cream and egg mixture thoroughly into chocolate mixture. Then scrape remaining cream and egg mixture over lightened chocolate base and fold together gently.",
     "Pour into individual dessert cups or serving bowl. Chill in refrigerator for 2 hours.",
     "Serve with other cup of whipped cream, whipped."
   ],
