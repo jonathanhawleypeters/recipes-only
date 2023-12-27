@@ -15,7 +15,7 @@
   <div>
     <p>12 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>11 tablespoons unsalted butter</li><li>½ cup granulated sugar</li><li>½ teaspoon salt</li><li>1 large egg</li><li>1 ½ cups all purpose flour</li><li>½ cup granulated sugar</li><li>½ teaspoon cornstarch</li><li>⅛ teaspoon salt</li><li>¾ cup milk</li><li>2/3 cup heavy cream</li><li>8 egg yolks</li><li>1 teaspoon vanilla extract</li></ul>
+    <ul><li>11 tablespoons unsalted butter</li><li>½ cup granulated sugar</li><li>½ teaspoon salt</li><li>1 large egg</li><li>1 ½ cups all purpose flour</li><li>½ cup granulated sugar</li><li>½ teaspoon cornstarch</li><li>⅛ teaspoon salt</li><li>¾ cup milk</li><li>⅔ cup heavy cream</li><li>8 egg yolks</li><li>1 teaspoon vanilla extract</li></ul>
   </div>
 
   <div>

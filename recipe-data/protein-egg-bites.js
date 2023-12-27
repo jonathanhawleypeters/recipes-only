@@ -16,7 +16,7 @@ const recipe = {
     "Pre-heat oven to 400° F, 205 C",
     "In a mixing bowl, gently whisk corn starch into egg whites",
     "Mix remaining ingredients into egg white mixture",
-    "Spoon mixture into a nonstick muffin tin, taking care to distribute liquid and solid ingredients evenly. Avoid filling cups over 2/3 full - mixture will expand while cooking.",
+    "Spoon mixture into a nonstick muffin tin, taking care to distribute liquid and solid ingredients evenly. Avoid filling cups over ⅔ full - mixture will expand while cooking.",
     "Cook approximately 20 minutes"
   ],
   published: {

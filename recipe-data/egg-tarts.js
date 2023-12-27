@@ -13,7 +13,7 @@ const recipe = {
       "½ teaspoon cornstarch",
       "⅛ teaspoon salt",
       "¾ cup milk",
-      "2/3 cup heavy cream",
+      "⅔ cup heavy cream",
       "8 egg yolks",
       "1 teaspoon vanilla extract"
     ]

@@ -21,7 +21,7 @@
   <div>
     <h3>Instructions</h3>
 
-    <ol><li>Pre-heat oven to 400° F, 205 C</li><li>In a mixing bowl, gently whisk corn starch into egg whites</li><li>Mix remaining ingredients into egg white mixture</li><li>Spoon mixture into a nonstick muffin tin, taking care to distribute liquid and solid ingredients evenly. Avoid filling cups over 2/3 full - mixture will expand while cooking.</li><li>Cook approximately 20 minutes</li></ol>
+    <ol><li>Pre-heat oven to 400° F, 205 C</li><li>In a mixing bowl, gently whisk corn starch into egg whites</li><li>Mix remaining ingredients into egg white mixture</li><li>Spoon mixture into a nonstick muffin tin, taking care to distribute liquid and solid ingredients evenly. Avoid filling cups over ⅔ full - mixture will expand while cooking.</li><li>Cook approximately 20 minutes</li></ol>
   </div>
 
   <h3>Source</h3><p>This recipe is the result of my efforts to make a lower calorie, higher protein version of Starucks's egg bites. These come out dry and spongy (likely because I've been mixing the ingredints in a blender). In my ideal recipe, they would have a custardy texture. I'm considering adding some egg yolks.</p>
