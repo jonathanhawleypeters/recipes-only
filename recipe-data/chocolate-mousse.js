@@ -31,7 +31,7 @@ const recipe = {
   },
   source: {
     type: "document",
-    text: "This recipe is from the kitchen of Pat Stansell and serves 8 or more.",
+    text: "This recipe is from the kitchen of Pat Stansell.",
   },
   "img": {
     "src": "/images/chocolate-mousse.webp",
