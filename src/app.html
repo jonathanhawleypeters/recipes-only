@@ -33,6 +33,13 @@
 		h3 {
 			font-family: 500 x-large Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 		}
+
+		@media (max-width: 640px) {
+			body {
+				margin: 20px;
+				width: calc(100% - 40px);
+			}
+		}
 	</style>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>

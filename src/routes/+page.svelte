@@ -232,12 +232,14 @@
 
 <style>
   .cards {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px 0;
+    width: 100%;
+    margin-bottom: 20px;
   }
   .card {
-    width: 200px;
-    margin-bottom: 20px;
+    width: 100%;
   }
   .link {
     margin: 0 auto;
@@ -252,5 +254,23 @@
   .card-image {
     width: 160px;
     height: 160px;
+  }
+  @media (max-width: 640px) {
+    .cards {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px 25px;
+    }
+    .image-container {
+      width: 100%;
+      margin: 0 auto;
+    }
+    .image-container, .card-image {
+      width: 100%;
+      height: auto;
+    }
+    .link {
+      width: 100%;
+      text-align: center;
+    }
   }
 </style>
