@@ -51,6 +51,8 @@
   @media (max-width: 640px) {
     .hero-image {
       float: none;
+      width: 100%;
+      height: auto;
     }
   }
 </style>
