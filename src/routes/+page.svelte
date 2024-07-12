@@ -215,6 +215,20 @@
     </a>
   </div>
  <div class="card">
+    <a href="turkey-chili">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/turkey-chili.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A steaming bowl of chili with colorful bell peppers and ground turkey visible." />
+      </div>
+      <div class="link">
+        Turkey Chili
+      </div>
+    </a>
+  </div>
+ <div class="card">
     <a href="vegetable-gratin">
       <div class="image-container">
         <enhanced:img
