@@ -5,18 +5,18 @@ const recipe = {
     serves: 5,
     items: [
       "2 lbs lean ground turkey",
-      "2 (15 1/2 ounce) cans kidney beans, drained and rinsed",
+      "2 (15 ½ ounce) cans kidney beans, drained and rinsed",
       "1 large onion, chopped",
       "1 large tomato, chopped",
-      "1/2 lb carrots, peeled and sliced",
-      "2 bell peppers (1 green, 1 red), cut into 1/2-inch squares",
+      "½ lb carrots, peeled and sliced",
+      "2 bell peppers (1 green, 1 red), cut into ½-inch squares",
       "1 (46 fluid ounce) container V8 vegetable juice",
-      "1/4 cup potato flakes",
+      "¼ cup potato flakes",
       "2 tablespoons chili powder",
-      "1/2 teaspoon cumin",
+      "½ teaspoon cumin",
       "1 teaspoon paprika",
-      "1/2 teaspoon celery seed",
-      "1/2 teaspoon fresh ground pepper"
+      "½ teaspoon celery seed",
+      "½ teaspoon fresh ground pepper"
     ]
   },
   instructions: [

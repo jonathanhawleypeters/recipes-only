@@ -15,7 +15,7 @@
   <div>
     <p>5 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>2 lbs lean ground turkey</li><li>2 (15 1/2 ounce) cans kidney beans, drained and rinsed</li><li>1 large onion, chopped</li><li>1 large tomato, chopped</li><li>1/2 lb carrots, peeled and sliced</li><li>2 bell peppers (1 green, 1 red), cut into 1/2-inch squares</li><li>1 (46 fluid ounce) container V8 vegetable juice</li><li>1/4 cup potato flakes</li><li>2 tablespoons chili powder</li><li>1/2 teaspoon cumin</li><li>1 teaspoon paprika</li><li>1/2 teaspoon celery seed</li><li>1/2 teaspoon fresh ground pepper</li></ul>
+    <ul><li>2 lbs lean ground turkey</li><li>2 (15 ½ ounce) cans kidney beans, drained and rinsed</li><li>1 large onion, chopped</li><li>1 large tomato, chopped</li><li>½ lb carrots, peeled and sliced</li><li>2 bell peppers (1 green, 1 red), cut into ½-inch squares</li><li>1 (46 fluid ounce) container V8 vegetable juice</li><li>¼ cup potato flakes</li><li>2 tablespoons chili powder</li><li>½ teaspoon cumin</li><li>1 teaspoon paprika</li><li>½ teaspoon celery seed</li><li>½ teaspoon fresh ground pepper</li></ul>
   </div>
 
   <div>

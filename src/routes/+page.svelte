@@ -117,6 +117,20 @@
     </a>
   </div>
  <div class="card">
+    <a href="high-protein-french-toast">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/high-protein-french-toast.webp?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A stack of golden-brown French toast, garnished with berries." />
+      </div>
+      <div class="link">
+        High Protein French Toast
+      </div>
+    </a>
+  </div>
+ <div class="card">
     <a href="chinese-hot-oil-noodles">
       <div class="image-container">
         <enhanced:img
