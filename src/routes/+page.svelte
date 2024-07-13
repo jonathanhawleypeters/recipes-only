@@ -221,7 +221,7 @@
           class="card-image"
           src="/static/images/turkey-chili.webp?h=320;160&w=320;160&aspect=1:1"
           sizes="(min-resolution: 2dppx) 320px, 160px"
-          alt="A steaming bowl of chili with colorful bell peppers and ground turkey visible." />
+          alt="A steaming bowl of chili with colorful bell peppers and turkey." />
       </div>
       <div class="link">
         Turkey Chili

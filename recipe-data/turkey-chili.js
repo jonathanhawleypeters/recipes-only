@@ -32,11 +32,11 @@ const recipe = {
   },
   source: {
     type: "document",
-    text: "A hearty chili recipe."
+    text: "My adaptation of a classic bodybuilding community recipe. I removed the garlic, substituted regular V8 for the spicy variant, used potato flakes instead of cashew meal, and replaced ground beef with ground turkey. Search \"Dr. John's chili\" for the original."
   },
   "img": {
     "src": "/images/turkey-chili.webp",
-    "alt": "A steaming bowl of chili with colorful bell peppers and ground turkey visible."
+    "alt": "A steaming bowl of chili with colorful bell peppers and turkey."
   }
 };
 
