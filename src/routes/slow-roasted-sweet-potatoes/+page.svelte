@@ -47,12 +47,14 @@
     float: right;
     width: 320px;
     height: 320px;
+    margin: 0 0 20px 20px;
   }
   @media (max-width: 640px) {
     .hero-image {
       float: none;
       width: 100%;
       height: auto;
+      margin: 0;
     }
   }
 </style>
