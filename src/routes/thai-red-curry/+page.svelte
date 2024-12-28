@@ -15,7 +15,7 @@
   <div>
     <p>4 servings</p>
     <h3>Ingredients</h3>
-    <ul><li>2 cans coconut milk (do not shake, cream must be separated)</li><li>3-4 tablespoons Thai red curry paste</li><li>2 chicken breasts, thin sliced (easy if partially frozen)</li><li>1 red bell pepper, sliced</li><li>1 onion, sliced</li><li>1 cup butternut squash or eggplant, cubed and roasted</li><li>1 can bamboo shoots</li><li>4 kaffir lime leaves</li><li>2 tablespoons fish sauce</li><li>1 tablespoon palm sugar or brown sugar</li><li>Thai basil leaves</li><li>jasmine rice for serving</li></ul>
+    <ul><li>2 cans coconut milk (do not shake, cream must be separated)</li><li>3-4 tablespoons Thai red curry paste (Maesri brand is good)</li><li>2 chicken breasts, thin sliced (easy if partially frozen)</li><li>1 red bell pepper, sliced</li><li>1 onion, sliced</li><li>1 cup butternut squash or eggplant, cubed and roasted</li><li>1 can bamboo shoots</li><li>4 kaffir lime leaves</li><li>2 tablespoons fish sauce</li><li>1 tablespoon palm sugar or brown sugar</li><li>Thai basil leaves</li><li>jasmine rice for serving</li></ul>
   </div>
 
   <div>

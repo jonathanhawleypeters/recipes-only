@@ -5,7 +5,7 @@ const recipe = {
     serves: 4,
     items: [
       "2 cans coconut milk (do not shake, cream must be separated)",
-      "3-4 tablespoons Thai red curry paste",
+      "3-4 tablespoons Thai red curry paste (Maesri brand is good)",
       "2 chicken breasts, thin sliced (easy if partially frozen)",
       "1 red bell pepper, sliced",
       "1 onion, sliced",
