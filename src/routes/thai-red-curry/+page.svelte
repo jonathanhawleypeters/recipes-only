@@ -21,7 +21,7 @@
   <div>
     <h3>Instructions</h3>
 
-    <ol><li>In a large pot over medium-high heat, heat the thick cream from the top of the coconut milk until oil separates</li><li>Add red curry paste and fry until fragrant (2-3 minutes)</li><li>Add chicken and cook until nearly done</li><li>Add remaining coconut milk and bring to a gentle simmer</li><li>Add bell pepper, onion, and bamboo shoots</li><li>Add kaffir lime leaves, fish sauce, and sugar</li><li>Reduce heat to medium-low and simmer for 10-15 minutes until vegetables are tender</li><li>Taste and adjust seasonings (add more fish sauce for salt, sugar for sweetness, or curry paste for heat)</li><li>Stir in Thai basil leaves</li><li>Serve hot with jasmine rice</li></ol>
+    <ol><li>In a large pot over medium-high heat, heat the thick cream from the top of the coconut milk until oil separates</li><li>Add red curry paste and fry until fragrant (2-3 minutes)</li><li>Add chicken and cook until nearly done</li><li>Add remaining coconut milk and bring to a gentle simmer</li><li>Add bell pepper, onion, and bamboo shoots</li><li>Add kaffir lime leaves, fish sauce, and sugar</li><li>Reduce heat to medium-low and simmer for 10-15 minutes until vegetables are tender</li><li>Taste and adjust seasonings (add more fish sauce for salt, sugar for sweetness, or curry paste for heat)</li><li>Stir in Thai basil leaves and butternut squash or eggplant</li><li>Serve hot with jasmine rice</li></ol>
   </div>
 
   <h3>Source</h3><p>Adapted from traditional Thai cuisine</p>

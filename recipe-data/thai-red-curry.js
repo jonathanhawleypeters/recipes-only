@@ -27,7 +27,7 @@ const recipe = {
     "Add kaffir lime leaves, fish sauce, and sugar",
     "Reduce heat to medium-low and simmer for 10-15 minutes until vegetables are tender",
     "Taste and adjust seasonings (add more fish sauce for salt, sugar for sweetness, or curry paste for heat)",
-    "Stir in Thai basil leaves",
+    "Stir in Thai basil leaves and butternut squash or eggplant",
     "Serve hot with jasmine rice"
   ],
   published: {
