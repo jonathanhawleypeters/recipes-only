@@ -229,6 +229,20 @@
     </a>
   </div>
  <div class="card">
+    <a href="thai-red-curry">
+      <div class="image-container">
+        <enhanced:img
+          class="card-image"
+          src="/static/images/thai-red-curry.png?h=320;160&w=320;160&aspect=1:1"
+          sizes="(min-resolution: 2dppx) 320px, 160px"
+          alt="A bowl of vibrant red curry with colorful vegetables and fresh herbs, served with jasmine rice" />
+      </div>
+      <div class="link">
+        Thai Red Curry
+      </div>
+    </a>
+  </div>
+ <div class="card">
     <a href="turkey-chili">
       <div class="image-container">
         <enhanced:img
