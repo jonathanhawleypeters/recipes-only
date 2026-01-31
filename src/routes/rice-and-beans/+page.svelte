@@ -8,7 +8,7 @@
 
   <enhanced:img
   class="hero-image"
-  src="/static/images/rice-and-beans.webp?h=640;320;160&w=640;320;160&aspect=1:1"
+  src="/static/images/rice-and-beans.webp?h=640;320;160&w=640;320;160${img.aspectRatio ? '' : '&aspect=1:1'}"
   sizes="(min-resolution: 2dppx) 640px, 320px"
   alt="A bowl with rice and beans garnished with cilantro rests on a table" />
 
@@ -48,6 +48,9 @@
     width: 320px;
     height: 320px;
     margin: 0 0 20px 20px;
+  }
+  .hero-image-auto {
+    height: auto;
   }
   @media (max-width: 640px) {
     .hero-image {

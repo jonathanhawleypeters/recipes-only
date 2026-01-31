@@ -8,7 +8,7 @@
 
   <enhanced:img
   class="hero-image"
-  src="/static/images/turkey-chili.webp?h=640;320;160&w=640;320;160&aspect=1:1"
+  src="/static/images/turkey-chili.webp?h=640;320;160&w=640;320;160${img.aspectRatio ? '' : '&aspect=1:1'}"
   sizes="(min-resolution: 2dppx) 640px, 320px"
   alt="A steaming bowl of chili with colorful bell peppers and turkey." />
 
@@ -48,6 +48,9 @@
     width: 320px;
     height: 320px;
     margin: 0 0 20px 20px;
+  }
+  .hero-image-auto {
+    height: auto;
   }
   @media (max-width: 640px) {
     .hero-image {

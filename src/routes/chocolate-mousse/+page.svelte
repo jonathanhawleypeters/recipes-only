@@ -8,7 +8,7 @@
 
   <enhanced:img
   class="hero-image"
-  src="/static/images/chocolate-mousse.webp?h=640;320;160&w=640;320;160&aspect=1:1"
+  src="/static/images/chocolate-mousse.webp?h=640;320;160&w=640;320;160${img.aspectRatio ? '' : '&aspect=1:1'}"
   sizes="(min-resolution: 2dppx) 640px, 320px"
   alt="An image of a dessert setting featuring individual glass cups of chocolate mousse with whipped cream on top, each garnished with a mint leaf and espresso beans. A silver espresso maker, a white teapot, and a bottle of Grand Marnier are in the background, on a table with a white floral-patterned tablecloth. Each cup is on a small plate with a spoon beside it, under soft, warm lighting." />
 
@@ -48,6 +48,9 @@
     width: 320px;
     height: 320px;
     margin: 0 0 20px 20px;
+  }
+  .hero-image-auto {
+    height: auto;
   }
   @media (max-width: 640px) {
     .hero-image {

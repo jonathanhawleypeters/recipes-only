@@ -8,7 +8,7 @@
 
   <enhanced:img
   class="hero-image"
-  src="/static/images/vegetable-gratin.webp?h=640;320;160&w=640;320;160&aspect=1:1"
+  src="/static/images/vegetable-gratin.webp?h=640;320;160&w=640;320;160${img.aspectRatio ? '' : '&aspect=1:1'}"
   sizes="(min-resolution: 2dppx) 640px, 320px"
   alt="A casserole dish containing vegetable gratin rests on a table surrounded by parmesan cheese, olive oil, zucchini, onion, and a spoonfull of salt" />
 
@@ -48,6 +48,9 @@
     width: 320px;
     height: 320px;
     margin: 0 0 20px 20px;
+  }
+  .hero-image-auto {
+    height: auto;
   }
   @media (max-width: 640px) {
     .hero-image {
