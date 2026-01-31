@@ -159,20 +159,6 @@
     </a>
   </div>
  <div class="card">
-    <a href="marianos-beef--barley-soup">
-      <div class="image-container">
-        <enhanced:img
-          class="card-image"
-          src="/static/images/mariano-beef-barley-soup.webp?h=320;160&w=320;160&aspect=1:1"
-          sizes="(min-resolution: 2dppx) 320px, 160px"
-          alt="Mariano's Beef & Barley Soup - YouTube thumbnail showing Mariano with a rustic ceramic pot of rich amber-colored beef and barley soup" />
-      </div>
-      <div class="link">
-        Mariano's Beef & Barley Soup
-      </div>
-    </a>
-  </div>
- <div class="card">
     <a href="middle-eastern-vegetable-salad">
       <div class="image-container">
         <enhanced:img
